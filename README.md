@@ -4,7 +4,7 @@ Projeto Introdução ao Unity — Insper 2026.2 — Gabriel Nasser
 
 Você tem 3 minutos antes da academia fechar para completar a ficha de treino: 8 exercícios, cada um com um minigame. Cuidado com o marombeiro que esbarra em você e com o chato do "vai usar?" que rouba seu tempo.
 
-**Jogar:** [itch.io](LINK_DO_ITCH)
+**Jogar:** [itch.io](https://ggsnasser.itch.io/gym-simulator)
 
 ## Controles
 
